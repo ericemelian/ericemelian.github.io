@@ -83,12 +83,12 @@ p {
 }
 
 a {
-  text-decoration: none;
   font-family: 'Open Sans', sans-serif;
   text-align: center;
   font-size: 32px;
-  font-weight: 600;
+  font-weight: 400;
   margin: 0px 0px;
+  color: white;
 }
 
 ul {
@@ -152,34 +152,6 @@ li {
   font-weight: 400;
   line-height: 5px;
   margin: 60px 0px;
-}
-
-#cock h4{
-  color: #FFF;
-  font-family: 'Quicksand', sans-serif;
-  font-size: 22px;
-  font-weight: 400;
-  line-height: 1px;
-  margin: 10px 0px;
-  text-align: center;
-}
-
-#cock h3{
-    border-bottom: 1px solid #eeeeee;
-    list-style: none;
-    text-align: center;
-    margin: 40px 0px;
-    padding: 0;
-    width: 28%;
-    color: blue;
-    font-weight: 800;
-  }
-
-#cock h5{
-  list-style: none;
-  text-align: center;
-  color: blue;
-  font-weight: 800;
 }
 
 #align {
