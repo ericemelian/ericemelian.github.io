@@ -5,7 +5,7 @@ body {
 }
 
 .header {
-  background-image: url("Pic1.jpg");
+  background-image: url("pic1.jpg");
   background-position: center center;
   background-size: cover;
   height: 810px;
@@ -122,7 +122,7 @@ li {
 }
 
 .main {
-  background: url("background.png");
+  background: url("Background.png");
   margin: 0px;
   padding: 40px;
 }
